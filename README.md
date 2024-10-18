@@ -1,4 +1,4 @@
-I am Iliyan Karanikolov, 23 years old, from Sofia. I am currently studying the Java programming language at SoftUni, and I will soon familiarize myself with Spring. 
+I am Iliyan Karanikolov, 23 years old, from Sofia. I am currently studying the Java programming language at SoftUni, and I will soon familiarize myself with Spring Data. 
 The courses I have completed have provided me with a solid foundation for a career as a programmer, but I realize that I need more practical experience to reinforce what I have learned.
 
 I am looking for a company that is dedicated to supporting and guiding young programmers like me in the initial steps of their careers in the IT field.
